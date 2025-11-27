@@ -2,7 +2,7 @@
 
 My personal Zed configuration, inspired by my vim configs
 
-![Demo](https://i.imgur.com/LyYxeXw.gif)
+![Demo](demo.gif)
 
 # Installation
 
