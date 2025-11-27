@@ -2,6 +2,8 @@
 
 My personal Zed configuration, inspired by my vim configs
 
+![Demo](https://i.imgur.com/LyYxeXw.gif)
+
 # Installation
 
 Just copy the `config` folder contents into your Zed config folder. 
