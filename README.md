@@ -21,11 +21,11 @@ Both things can be changed if you prefer other shells or fonts, editing the `con
 A few key mappings I added:
 
 - `alt + left/right arrows` to switch between tabs.
-- `, e` to open the fuzzy file finder.
-- `, g` to open the fuzzy project symbols (classes, functions, etc) finder.
+- `, e` to show the fuzzy file finder.
+- `, g` to show the fuzzy project symbols (classes, functions, etc) finder.
 - `, d` go to definition.
 - `F2` close any panels and focus on the editor.
-- `F3` open files tree, toggle focus between it and the editor.
-- `F4` open class browser, toggle focus between it and the editor.
+- `F3` show files tree, toggle focus between it and the editor.
+- `F4` show class browser, toggle focus between it and the editor.
 - `ctrl-j` toggle terminal (a default, but I made sure it works in vim's normal mode).
-- `ctrl-i` open AI assistant, toggle focus between it and the editor.
+- `ctrl-i` show AI assistant, toggle focus between it and the editor.
