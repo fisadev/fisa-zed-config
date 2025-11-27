@@ -1,6 +1,6 @@
 [
   {
-    "context": "Workspace",
+    "context": "EmptyPane || SharedScreen",
     "bindings": {
       ", e": "file_finder::Toggle",
       ", g": "project_symbols::Toggle",
