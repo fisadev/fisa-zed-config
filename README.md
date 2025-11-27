@@ -27,5 +27,5 @@ A few key mappings I added:
 - `F2` close any panels and focus on the editor.
 - `F3` open files tree, toggle focus between it and the editor.
 - `F4` open class browser, toggle focus between it and the editor.
-- `ctrl-j` toggle terminal.
+- `ctrl-j` toggle terminal (a default, but I made sure it works in vim's normal mode).
 - `ctrl-i` open AI assistant, toggle focus between it and the editor.
