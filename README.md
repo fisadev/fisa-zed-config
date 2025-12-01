@@ -22,7 +22,8 @@ A few key mappings I added:
 
 - `alt + left/right arrows` to switch between tabs.
 - `, e` to show the fuzzy file finder.
-- `, g` to show the fuzzy project symbols (classes, functions, etc) finder.
+- `, g` to show the fuzzy file symbols (classes, functions, etc) finder.
+- `, G` to show the fuzzy project symbols (classes, functions, etc) finder.
 - `, d` go to definition.
 - `F2` close any panels and focus on the editor.
 - `F3` show files tree, toggle focus between it and the editor.

@@ -4,6 +4,7 @@
     "bindings": {
       ", e": "file_finder::Toggle",
       ", g": "project_symbols::Toggle",
+      ", G": "project_symbols::Toggle",
       "t t": "file_finder::Toggle"
     }
   },
@@ -11,7 +12,8 @@
     "context": "Editor && vim_mode == normal",
     "bindings": {
       ", e": "file_finder::Toggle",
-      ", g": "project_symbols::Toggle",
+      ", g": "outline::Toggle",
+      ", G": "project_symbols::Toggle",
       ", d": "editor::GoToDefinition",
       "t t": "file_finder::Toggle"
     }
