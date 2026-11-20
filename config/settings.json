@@ -1,9 +1,14 @@
 {
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry"
+    }
+  },
+  "edit_predictions": {
+    "provider": "copilot"
+  },
   "completions": {
     "words_min_length": 2
-  },
-  "features": {
-    "edit_prediction_provider": "copilot"
   },
   "agent": {
     "dock": "right",
